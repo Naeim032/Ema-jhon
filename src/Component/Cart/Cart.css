@@ -1,0 +1,19 @@
+.cart{
+  background-color: #FFE0B3;
+  padding: 15px;
+  position: sticky;
+  top: 0;
+}
+
+.cart p{
+  font-size: 13px;
+  color: black;
+}
+
+.cart h5{
+  color: black;
+}
+
+.cart h6{
+  color: black;
+}
